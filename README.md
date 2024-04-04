@@ -2,7 +2,7 @@
 
 Miscl Topics
 
-[Plotly Express, Labels on Map, Create HTML](https://github.com/jamespairepo/_Reference/blob/main/data_science_from_scratch/nearest_neighbors.ipynb)
+[Plotly Express, Create HTML](https://github.com/jamespairepo/_Reference/blob/main/data_science_from_scratch/nearest_neighbors.ipynb)
 
 ![screenshot](/screenshots/plotly_us_map.png)
 
