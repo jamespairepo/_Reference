@@ -13,3 +13,7 @@ Miscl Topics
 [Monte Carlo](https://github.com/jamespairepo/_Reference/blob/main/_miscl/Stats/monte_carlo.ipynb)
 
 ![screenshot](/screenshots/monte_carlo_basic.png)
+
+[Fitting Norm, Log-Norm, Gamma](https://github.com/jamespairepo/_Reference/blob/main/_miscl/Stats/data_modeling.ipynb)
+
+![screenshot](/screenshots/norm_log_gamma.png)
