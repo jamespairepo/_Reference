@@ -14,6 +14,6 @@ Miscl Topics
 
 ![screenshot](/screenshots/monte_carlo_basic.png)
 
-[Fitting Norm, Log-Norm, Gamma](https://github.com/jamespairepo/_Reference/blob/main/Stats/data_modeling.ipynb)
+[Fitting Norm, Log-Norm, Gamma with Scipy](https://github.com/jamespairepo/_Reference/blob/main/Stats/data_modeling.ipynb)
 
 ![screenshot](/screenshots/norm_log_gamma.png)
